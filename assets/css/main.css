@@ -2821,7 +2821,7 @@ input, select, textarea {
 				height: 2.25rem;
 				line-height: 2.25rem;
 				display: inline-block;
-				text-align: left;
+				text-align: center;
 				border-radius: 100%;
 				font-size: 1.25rem;
 			}
